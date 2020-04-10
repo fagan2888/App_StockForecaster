@@ -9,7 +9,7 @@ import base64
 
 
 
-class lstm():
+class Model():
     
     def __init__(self, ts, size):
         self.ts = ts
