@@ -1,3 +1,3 @@
-# Stock Price Forecaster App with Flask and Tensorflow-Keras
+# Stock Price Forecaster App with Dash and Tensorflow-Keras
 
 https://stockforecaster.herokuapp.com/
